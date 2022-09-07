@@ -1,12 +1,12 @@
-##PandaExpress_Djangoproject
+PandaExpress_Djangoproject
+This Project was built as a learning tool by me
 
-#This Project was built as a learning tool coutersy of Dennis Ivy @divanov11
+coutersy of Dennis Ivy @divanov11
 
-##App Review!!
-#Home Page Feed 
+App Review!!
 
-![Getting Started](./Homepageimage.png)
+Home Page Feed 
 ![Getting Started](Homepageimage.png)
 
-#Room Image Feed
+Room Image Feed
 ![Roomimage](Roomimage.png)
