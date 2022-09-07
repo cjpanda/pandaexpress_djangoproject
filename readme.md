@@ -5,8 +5,8 @@
 ##App Review!!
 #Home Page Feed 
 
-![](../../Desktop/Home%20page%20image.png)
+![Getting Started](./Homepageimage.png)
+![Getting Started](Homepageimage.png)
 
 #Room Image Feed
-
-![Room Image](../../Desktop/Room%20image.png)
+![Roomimage](Roomimage.png)
