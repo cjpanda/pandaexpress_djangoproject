@@ -7,6 +7,7 @@ This is a web forum, the finished website is not yet ready so updates will keep 
 
 
 ## App Review!!
+Below are Images of what the finished work might look like for now. 
 
 ## Home Page Feed 
 ![Getting Started](Homepageimage.png)
